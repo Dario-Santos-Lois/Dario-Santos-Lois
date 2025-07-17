@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I’m Darío Santos! 👋
 
-<!--
-**Dario-Santos-Lois/Dario-Santos-Lois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a computer engineer from **A Coruña, Galicia (Spain)**.  
+Here are a few things about me you might find interesting!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 Graduated in Computer Engineering (Computing major) – Universidade da Coruña  
+- 🤖 Passionate about **Machine Learning**, **Neural Networks**, and **PyTorch**
+- 📚 Always learning — from theoretical computer science to the latest AI papers
+- 🧪 I enjoy getting hands-on with code and experimenting with new ideas
+- 🌍 I’m always open to meeting new people, sharing ideas, and collaborating on exciting projects
+
+---
+
+## 🛠 Technologies & Tools
+
+Here are some of the tools I work with or am currently exploring:
+
+- 🔬 **Python** as my main language
+- 🧠 **PyTorch**, **scikit-learn**, **NumPy**, **pandas**
+- 🚀 Also Git, Java, HTML, CSS, JavaScript ...
+- 🧰 VS Code, Linux, and a bit of Bash when needed
+- ✍️ Also interested in **ethical AI** and responsible tech development
+
+---
+
+## 📬 Get in Touch
+
+Have an idea, project, or just want to say hi?
+
+- ✉️ dariosantos2112@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-santos-lois-0a4aa833a/)
+
+---
+
+## 👀 Thanks for stopping by!
+
+Hope you found something interesting here. See you around! 😄
